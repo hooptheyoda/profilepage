@@ -11,3 +11,6 @@
 ## Code Impliments
   * Express
   * Node js
+## Future Updates, Coming Soon
+    * Photos from past events
+    * Linkedin Link Working 
