@@ -484,13 +484,11 @@ input:focus, textarea:focus {
   font-size: 2rem;
   text-align: center;
   width: 100%;
+  height: 80px;
+  /* background-color:black; */
 }
 
-.social-media-list li a {
-  color: #fff;
-}
-
-.social-media-list li {
+#iconf {
   position: relative;
   top: 20px;
   left: -20px;
@@ -499,13 +497,13 @@ input:focus, textarea:focus {
   width: 50px;
   line-height: 50px;
   border-radius: 50%;
-  color: #fff;
+  color: #ADD8E6;
   background-color: rgb(27,27,27);
   cursor: pointer;
   transition: all .2s ease-in-out;
 }
 
-.social-media-list li:after {
+#iconf:after {
   content: '';
   position: absolute;
   top: 0;
@@ -519,18 +517,14 @@ input:focus, textarea:focus {
   transition: all .2s ease-in-out;
 }
 
-.social-media-list li:hover {
+#iconf:hover {
   background-color: #fff;
 }
 
-.social-media-list li:hover:after {
+#iconf:hover:after {
   opacity: 1;
   transform: scale(1.12);
   transition-timing-function: cubic-bezier(0.37,0.74,0.15,1.65);
-}
-
-.social-media-list li:hover a {
-  color: #111;
 }
 
 .copyright {
