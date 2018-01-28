@@ -6,8 +6,8 @@
 ### In Terminal
    * Node Terminal: npm install
    * Node Terminal: npm start
-## Deployed on Heroku   
-   https://digitalclockrh.herokuapp.com/
+## Deployed on Google Cloud   
+   http://ravenhooper-193403.appspot.com/about.html 
 ## Code Impliments
   * Express
   * Node js
