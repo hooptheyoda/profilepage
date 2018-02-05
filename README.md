@@ -1,4 +1,4 @@
-# Raven Hooper Web Developer Profile Page
+# Raven Hooper Portfolio Page
 #### This application is my creation to display my portfolio. HTML5, CSS3 and JavaScript for front-end. Node.js for backend.
 ## To Run Code
    * git clone or download
@@ -7,7 +7,7 @@
    * Node Terminal: npm install
    * Node Terminal: npm start
 ## Deployed on Google Cloud   
-   http://ravenhooper-193403.appspot.com/about.html 
+   http://ravenhooper-193403.appspot.com/about.html
 ## Code Impliments
   * Express
   * Node js
