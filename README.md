@@ -13,3 +13,8 @@
   * Node js
 ## Future Updates, Coming Soon
     * Photos from past events
+## Recent Updates
+    * About page updated
+    * Resume page updated
+    * Linkedin Page added
+    * CodePen Removed
